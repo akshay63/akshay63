@@ -31,14 +31,7 @@
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-  - name: "📚  Hashnode Updater"
-    uses: "varunsridharan/action-hashnode-blog@main"
-    with:
-      USERNAME: 'your-username'
-      COUNT: 6
-      STYLE: "blog"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  [Codewars](https://www.codewars.com/users/meshakshay/badges/small)
 
 
     
