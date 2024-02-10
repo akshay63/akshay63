@@ -7,8 +7,17 @@
 - ✨ I love to write different topics on technical concepts, arts, and interesting information.
 
 ### Connect with me
-[Twitter:](https://www.twitter.com/aka_akshaymesh)
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+![<img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>:](https://www.twitter.com/aka_akshaymesh)
+[]
+
+#### Languages
+[![My Skills](https://skills.thijs.gg/icons?i=js,c,nodejs,mysql,mongodb,postgres,html,css,react)](https://skills.thijs.gg)
+
+#### DevOps Tools and Cloud Tecs
+[![My Skills](https://skills.thijs.gg/icons?i=docker,v,grafana,prometheus,vim)](https://skills.thijs.gg)
+
+#### Tools
+[![My Skills](https://skills.thijs.gg/icons?i=figma,git,md)](https://skills.thijs.gg)
 
 <!--
 **akshay63/akshay63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
