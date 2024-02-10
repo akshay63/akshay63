@@ -15,7 +15,7 @@
 
 ## Technologies
 ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=js,c,nodejs,mysql,mongodb,postgres,html,css,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,c,postgres,html,css,react)](https://skills.thijs.gg)
 
 ### DevOps and Cloud Tools
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,grafana,prometheus,vim)](https://skills.thijs.gg)
@@ -27,7 +27,7 @@
 ## Stats📈 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="akshay63" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="akshay63" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay63&theme=highcontrast&hide_border=true" alt="akshay63" /> </p>
 
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay63&show_icons=true&theme=DBE7C9&title_color=294B29&text_color=DBE7C9&bg_color=DBE7C9&locale=en&layout=compact&hide_border=true" alt="akshay63" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="akshay63" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay63&theme=highcontrast&hide_border=true" alt="akshay63" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay63&show_icons=true&theme=dracula&title_color=294B29&text_color=50623A&bg_color=DBE7C9&locale=en&layout=compact&hide_border=true" alt="akshay63" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="akshay63" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay63&theme=highcontrast&hide_border=true" alt="akshay63" /> </p>
 
 <!--
 **akshay63/akshay63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
