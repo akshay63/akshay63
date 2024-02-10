@@ -1,4 +1,10 @@
 # Welcome to my Github Profile 👋
+- [[#About]]
+- [[#Connect with me]]
+- [[#Technologies]]
+  - [[#Languages]]
+  - [[#DevOps and Cloud Tools]]
+  - [[#Tools]]
 
 ## About
 - 👩‍💻 I am a **Frontend Developer** from central India and currently expanding my skillsets.
