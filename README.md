@@ -18,7 +18,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,c,postgres,html,css,react)](https://skills.thijs.gg)
 
 ### DevOps and Cloud Tools
-[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,grafana,prometheus,vim)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,grafana,prometheus)](https://skills.thijs.gg)
 
 ### Tools
 [![My Skills](https://skills.thijs.gg/icons?i=figma,git,md)](https://skills.thijs.gg)
