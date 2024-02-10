@@ -1,10 +1,10 @@
 ## Hi there, Welcome to my Github Profile 👋
 
 ### About
-    👩‍💻 I am a **Frontend Developer** from central India and currently expanding my skillsets
-    🌱 I'm interested in **Frontend development, Cloud** and **DevOps**.
-    🎯 My Goal is to contribute to **open source projects**, **create and build amazing things with software**, and **educate** others.
-    ✨ I love to write different topics on technical concepts, arts, and interesting information.
+👩‍💻 I am a **Frontend Developer** from central India and currently expanding my skillsets
+🌱 I'm interested in **Frontend development, Cloud** and **DevOps**.
+🎯 My Goal is to contribute to **open source projects**, **create and build amazing things with software**, and **educate** others.
+✨ I love to write different topics on technical concepts, arts, and interesting information.
 
 ### Connect with me
 [<a  href="https://icons8.com/icon/13963/twitter">Twitter</a> icon by <a href="https://icons8.com">Icons8</a>](https://www.twitter.com/aka_akshaymesh)
