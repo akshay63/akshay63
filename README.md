@@ -1,5 +1,5 @@
 # Welcome to my Github Profile 👋
-[[# About]]
+[[README#About]]
 - [[#Connect with me]]
 - [[#Technologies]]
   - [[#Languages]]
