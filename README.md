@@ -27,6 +27,21 @@
 ## Stats📈 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="akshay63" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay63&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="akshay63" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay63&theme=highcontrast&hide_border=true" alt="akshay63" /> </p>
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+  - name: "📚  Hashnode Updater"
+    uses: "varunsridharan/action-hashnode-blog@main"
+    with:
+      USERNAME: 'your-username'
+      COUNT: 6
+      STYLE: "blog"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+    
 <!--
 **akshay63/akshay63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
