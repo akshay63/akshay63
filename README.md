@@ -7,7 +7,8 @@
 - ✨ I love to write different topics on technical concepts, arts, and interesting information.
 
 ### Connect with me
-[<a  href="https://icons8.com/icon/13963/twitter">Twitter</a> icon by <a href="https://icons8.com">Icons8</a>](https://www.twitter.com/aka_akshaymesh)
+[Twitter:](https://www.twitter.com/aka_akshaymesh)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 <!--
 **akshay63/akshay63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
