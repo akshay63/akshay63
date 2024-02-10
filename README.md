@@ -31,7 +31,7 @@
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-  [Codewars](https://www.codewars.com/users/meshakshay/badges/small)
+  [<img width="48" height="48" src="https://img.icons8.com/fluency/48/codewars.png" alt="codewars"/>](https://www.codewars.com/users/meshakshay/badges/small)
 
 
     
